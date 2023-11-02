@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="287.5" height="109.196" viewBox="0 0 287.5 109.196">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.198" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4d87b6"/>
+      <stop offset="1" stop-color="#153057"/>
+    </linearGradient>
+  </defs>
+  <g id="LNG-ARROW" transform="translate(-528 -1529.001)">
+    <path id="Path_290" data-name="Path 290" d="M29.9,29.2,1.207.5H29.9Z" transform="translate(526.793 1609)" fill="#153057"/>
+    <path id="Union_2" data-name="Union 2" d="M13771.5-5636.5H13542v-59h229.5V-5717l58,50.5-58,50.5Z" transform="translate(-13014 7246)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

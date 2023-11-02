@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4d87b6"/>
+      <stop offset="1" stop-color="#153057"/>
+    </linearGradient>
+  </defs>
+  <g id="right" transform="translate(-975 -1148)">
+    <circle id="Ellipse_47" data-name="Ellipse 47" cx="9" cy="9" r="9" transform="translate(977 1150)" fill="#91c3eb"/>
+    <circle id="Ellipse_48" data-name="Ellipse 48" cx="9" cy="9" r="9" transform="translate(975 1148)" fill="url(#linear-gradient)"/>
+    <path id="Icon_feather-check" data-name="Icon feather-check" d="M14.554,9,8.673,14.881,6,12.208" transform="translate(973.5 1145.06)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>
